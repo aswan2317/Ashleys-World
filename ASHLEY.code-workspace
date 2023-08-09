@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "aswan2317",
+			"path": "../../ASHLEYSXO/aswan2317"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "aswan2317",
+		"workbench.commandPalette.experimental.suggestCommands": true,
+		"files.autoSave": "onFocusChange",
+		"editor.fontFamily": "Consolas, 'Courier New', monospace, "
+	}
+}
